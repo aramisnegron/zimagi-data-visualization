@@ -12,7 +12,7 @@
 !/assets/
 #!/assets/themes/zimagi_data_visualizer
 /assets/themes/default
-/assets/components/*
+/assets/components
 # IDE files (optional or add more #
 ###################################
 .idea
